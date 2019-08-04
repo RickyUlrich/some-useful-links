@@ -14,7 +14,7 @@
 
 ## Operating Systems and Systems Programming
 - Operating Systems: Three Easy Pieces
-- [Complex Concurrency Patterns in Go](https://eapache.github.io/assets/Complex_Concurrency_Patterns_in_Go.pdf)
+- Complex Concurrency Patterns in Go - https://eapache.github.io/assets/Complex_Concurrency_Patterns_in_Go.pdf
 - Assemblers, Linkers, and the SPIM Simulator - https://pdfs.semanticscholar.org/09a1/9452e1f62a4482b6df84fafe79db3123938e.pdf
 - Linkers and Loaders (the book)
 - Locality Principle by Denning - https://calhoun.nps.edu/bitstream/handle/10945/35490/cacmJul05.pdf?sequence=1
@@ -51,7 +51,7 @@ This paper is arguabaly one of the most influential papers by the academic commu
 - CMU Program Analysis Course - https://www.cs.umd.edu/class/fall2017/cmsc631/Resources.html
 - CMU Program Analysis class notes - https://www.cs.umd.edu/class/fall2014/cmsc631/notes.pdf
 - McGill Program Analysis Course - https://www.sable.mcgill.ca/~hendren/621/
-- [Lecture Notes on Static Analysis (BRICS)](https://lara.epfl.ch/w/_media/sav08:schwartzbach.pdf)
+- Lecture Notes on Static Analysis (BRICS) - https://lara.epfl.ch/w/_media/sav08:schwartzbach.pdf
 - ESP: Path-sensitive program verification in polynomial time - https://www.cs.cornell.edu/courses/cs711/2005fa/papers/dls-pldi02.pdf
 - Tree, DAG, or a Cyclic Graph? - https://www.cs.cmu.edu/~745/papers/p1-ghiya.pdf
 - Dynamic Slicing Long Running Programs through Execution Fast Forwarding - https://www.cs.purdue.edu/homes/xyzhang/Comp/fse06.pdf
