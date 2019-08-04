@@ -1,4 +1,5 @@
 # Useful Links and Resources
+[![Build Status](https://travis-ci.org/RickyUlrich/some-useful-links.svg?branch=master)](https://travis-ci.org/RickyUlrich/some-useful-links)
 
 ## Programming lanaguages
 - SICP (The Wizard Book) - https://web.mit.edu/alexmv/6.037/sicp.pdf
