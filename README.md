@@ -79,7 +79,7 @@ function calls, loops in code)
 - RPISec Modern Binary Exploitation - https://github.com/RPISEC/MBE
 - Geras Insecuring Programs - https://github.com/gerasdf/InsecureProgramming
 - Microgadgets: Size Does Matter - https://www.ics.uci.edu/~ahomescu/microgadgets_woot12.pdf
-- Glib Adventures - https://go.contextis.com/rs/140-OCV-459/images/Glibc_Adventures-The_Forgotten_Chunks.pdf
+- Glib Adventures: The Forgotten Chunks - https://www.contextis.com/en/resources/white-papers/glibc-adventures-the-forgotten-chunks
 - This exploit of a one byte overflow in c-ares - https://googleprojectzero.blogspot.com/2016/12/chrome-os-exploit-one-byte-overflow-and.html
 - Heap Feng Shui in Javascript - https://www.blackhat.com/presentations/bh-europe-07/Sotirov/Presentation/bh-eu-07-sotirov-apr19.pdf
 - Anything on the Google Project Zero blog
@@ -89,7 +89,8 @@ function calls, loops in code)
 
 ## Exploitation, Weird Machines, and Generalizations
 - Computer security from a programming language and static analysis perspective https://xavierleroy.org/publi/language-security-etaps03.pdf
-- Exploit Programming - https://pages.cpsc.ucalgary.ca/~locasto/papers/login-bratus-wm.pdf
+- Exploit Programming - https://www.usenix.org/system/files/login/articles/105516-Bratus.pdf
+- Overlooked Foundations: Exploits as Experiments and Constructive Proofs in the Science-of-Security - https://www.usenix.org/system/files/conference/cset17/cset17-paper-bratus.pdf
 - "Weird Machines" in ELF - https://www.cs.dartmouth.edu/~sergey/wm/woot13-shapiro.pdf
 - Exploiting the hard-working DWARF - https://www.youtube.com/watch?v=nLH7ytOTYto
 - The Page Fault Weird Machine - https://www.cs.dartmouth.edu/~sws/pubs/bbss13.pdf
@@ -102,7 +103,7 @@ function calls, loops in code)
 - Dan Boneh Intro to Cryptography - https://crypto.stanford.edu/~dabo/cs255/syllabus.html
 - Crypto 101 by lvh - https://github.com/crypto101/crypto101.github.io/raw/master/Crypto101.pdf
 - The original Bitcoin Paper - https://bitcoin.org/bitcoin.pdf
-- Dan Boneh Intro to Cryptocurrencies - https://cs251crypto.stanford.edu/18au-cs251/syllabus.html
+- Dan Boneh Intro to Cryptocurrencies
 
 ## Web Sec
 - Dan Boneh Intro to Web Security - https://crypto.stanford.edu/cs142/syllabus.html
