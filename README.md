@@ -89,7 +89,7 @@ function calls, loops in code)
 
 ## Exploitation, Weird Machines, and Generalizations
 - Computer security from a programming language and static analysis perspective https://xavierleroy.org/publi/language-security-etaps03.pdf
-- Exploit Programming - https://langsec.org/papers/Bratus.pdf
+- Exploit Programming - https://pages.cpsc.ucalgary.ca/~locasto/papers/login-bratus-wm.pdf
 - "Weird Machines" in ELF - https://www.cs.dartmouth.edu/~sergey/wm/woot13-shapiro.pdf
 - Exploiting the hard-working DWARF - https://www.youtube.com/watch?v=nLH7ytOTYto
 - The Page Fault Weird Machine - https://www.cs.dartmouth.edu/~sws/pubs/bbss13.pdf
